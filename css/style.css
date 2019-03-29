@@ -1,0 +1,29 @@
+nav{
+    background-color: #006064;
+}
+
+li:hover{
+    background-color: #01939A;
+}
+
+.reglog {
+    margin: 20vh;
+}
+
+body{
+    background-color: #effcff;
+}
+
+#test1 {
+    font-family: 'Consolas', Courier, monospace;
+    font-size: small;
+}
+
+#map {
+    height: 80vh; 
+    width: 95vw;
+    
+    margin: auto;
+    margin-top: 10vh;
+    /* padding-top: 64px; */
+    }
